@@ -1,0 +1,36 @@
+body{
+
+  background-color: blueviolet;  
+  color: whitesmoke;
+
+}
+
+nav{
+
+    height: 500px;
+    width: 300px;
+    float: left;
+    padding: 10px;
+    line-height: 40px;
+
+}
+
+footer{
+
+    text-align: center;
+    margin-right: 250px;
+
+}
+
+#memeImege{
+    
+    margin-right: 250px;
+    width: 500px;
+
+}
+
+h1{
+
+    text-align: center;
+
+}
